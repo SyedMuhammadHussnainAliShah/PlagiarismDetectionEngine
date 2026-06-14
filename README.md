@@ -2,10 +2,9 @@ Plagiarism Detection Engine
 
 Language:
 
-Java
+Java JDK 21
 
 Description:
-
 A Java based plagiarism detection system that compares
 multiple documents using Data Structures and Algorithms.
 
@@ -22,6 +21,11 @@ Implemented Data Structures:
 
 How To Run:
 
+1. Install Java JDK
+2. Open project in VS Code or IntelliJ IDEA
+3. Place all Java files inside src folder
+4. Run Main.java
+
 1. Program Start
 2. Document Creation
 3. Document Storage using ArrayList
@@ -37,5 +41,6 @@ How To Run:
 13. Final Result Display
 
 Output:
+
 Displays document information, similarity percentages,
 and comparison history.
