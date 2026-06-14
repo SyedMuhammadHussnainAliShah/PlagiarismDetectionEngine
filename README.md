@@ -22,19 +22,19 @@ Implemented Data Structures:
 
 How To Run:
 
-Program Start
-Document Creation
-Document Storage using ArrayList
-Text Processing and Tokenization
-Word Indexing using Trie
-Sentence Comparison using Hashing and HashMap
-Phrase Storage using Binary Search Tree (BST)
-Plagiarism Evidence Storage using Singly Linked List
-Similarity Percentage Calculation
-Document Ranking using Priority Queue
-Comparison History Management using Stack
-Related Document Detection using Graph and BFS
-Final Result Display
+1. Program Start
+2. Document Creation
+3. Document Storage using ArrayList
+4. Text Processing and Tokenization
+5. Word Indexing using Trie
+6. Sentence Comparison using Hashing and HashMap
+7. Phrase Storage using Binary Search Tree (BST)
+8. Plagiarism Evidence Storage using Singly Linked List
+9. Similarity Percentage Calculation
+10. Document Ranking using Priority Queue
+11. Comparison History Management using Stack
+12. Related Document Detection using Graph and BFS
+13. Final Result Display
 
 Output:
 Displays document information, similarity percentages,
