@@ -1,8 +1,6 @@
 Plagiarism Detection Engine
-
 Language:
-Java 
-
+Java
 Description:
 A Java based plagiarism detection system that compares
 multiple documents using Data Structures and Algorithms.
