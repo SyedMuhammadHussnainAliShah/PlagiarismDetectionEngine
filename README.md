@@ -1,7 +1,7 @@
 Plagiarism Detection Engine
 
 Language:
-Java JDK 21
+Java 
 
 Description:
 A Java based plagiarism detection system that compares
